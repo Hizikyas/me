@@ -41,7 +41,8 @@
     for (int i = 0; i < 6; i++)
     {
      cout<<"The order of the ages are : ";
-        cout<<ordered[i]<<",  ";
+     cout<<ordered[i]<<",  ";
+     cout<<endl<<"Thank you ";
     }
     
 
